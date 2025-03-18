@@ -18,8 +18,8 @@ void reverseItr();
 void messageSuccess();
 
 int main() {
-    printf("Dedicated to Honourable Miss Fabia Khan\n");
-    printf("Coded by Mohammad Affan Siddiqi - BCA Sec B\n");
+    printf("Dedicated to Honourable HF 1010110\n");
+    printf("Coded by Mohammad Affan Siddiqi\n");
     head = NULL;
     int choice = 0, n = 0, pos = 0, val = 0;
 
