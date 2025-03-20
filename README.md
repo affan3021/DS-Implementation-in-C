@@ -19,4 +19,16 @@ This repo contains all DS concepts (their implementation) in C
   - Displaying the Linked List
   - Reversing the Liinked List
 
+- **For Stacks**
+  *Approaches Covered are:*
+    -Static Array Implementation
+    -Dynamic Array Implementation
+    -Linked List Implementation
+
+  Operations Implemented are:
+  1. Push
+  2. Pop
+  3. Peek/Top
+  
+
 
